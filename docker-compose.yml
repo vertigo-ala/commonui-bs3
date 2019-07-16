@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+
+  commonui-bs3:
+    build:
+      context: .
+    image: vertigo-ala/commonui-bs3
+    volumes:
+      - .:/usr/share/nginx/html/commonui-bs3
+    ports:
+      - 8000:80
