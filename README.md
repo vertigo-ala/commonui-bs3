@@ -1,2 +1,3 @@
 # commonui-bs3
-common ui for ALA webapps using bootstrap 3.
+
+Dockerized common UI for ALA webapps using bootstrap 3.
